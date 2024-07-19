@@ -1,4 +1,4 @@
-<h1 align="left">Hi, this is Youngwoo Choi.</h1>
+<h1 align="left">Hi, I'm Youngwoo Choi.</h1>
 I learned full-stack web development in KOSTA.
 <br><br>
 
